@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I've renamed my profile, please find me at: https://github.com/alx00x
+I've renamed my profile, please find me at: [github.com/alx00x](https://github.com/alx00x)
