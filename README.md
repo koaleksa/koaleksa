@@ -4,4 +4,4 @@
 
 I've **renamed** my profile
 
-Find me at: **[github.com/alx00x](https://github.com/alxkocic)**
+Find me at: **[github.com/alxkocic](https://github.com/alxkocic)**
